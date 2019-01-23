@@ -20,25 +20,31 @@ EasyFlashcards does just that.
 **This is only tested on Ubuntu systems**
 
 
-##### Python`
+##### Python
 Python3.6 comes with Ubuntu 17.10 and later. Check that you have it by typing
 
+`
 python3 --version
 `
+
 into a terminal window.
 
 If it does not exist, run the following commands to install it
+
 `
 sudo apt-get update
+
 sudo apt-get install python3
 `
 ##### Repository
 Clone this repository by typing the following command into your terminal
+
 `
 git clone git@github.com:gcooper120/EasyFlashcards.git
 `
 
 This creates a new EasyFlashcards directory. Switch to this directory by typing
+
 `
 cd EasyFlashcards
 `
@@ -65,6 +71,7 @@ must be enabled. Follow Step 1 and 2 [here](https://developers.google.com/sheets
 The application currently relies on a very specific Google Sheets format.
 
 Download the following sheet to your own drive:
+
 https://docs.google.com/spreadsheets/d/18i2KqK-969L5zePuj8YnVGZhKewFiql2Z7v13UpA1Ck/edit?usp=sharing
 
 Once the sheet is in your drive, navigate to it and copy the URL. Paste this
