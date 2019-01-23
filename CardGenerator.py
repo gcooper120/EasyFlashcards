@@ -3,12 +3,6 @@ import json
 import requests
 import configparser
 
-def main():
-    cg = CardGenerator()
-    cg.getDeckConfig()
-    cg.createNewDeck()
-    cg.addNote("front", "back")
-
 class CardGenerator:
 
     def __init__(self):
