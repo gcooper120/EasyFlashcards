@@ -7,7 +7,7 @@ def main():
     cg = CardGenerator()
     cg.getDeckConfig()
     cg.createNewDeck()
-    cg.addNote()
+    cg.addNote("front", "back")
 
 class CardGenerator:
 
