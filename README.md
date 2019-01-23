@@ -5,3 +5,11 @@
 2. Installation
 3. Setup
 4. How to contribute
+
+### What is EasyFlashcards?
+
+### Installation
+
+###Setup
+
+###How to contribute
