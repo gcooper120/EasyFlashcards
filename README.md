@@ -1,15 +1,15 @@
 # Tool for creating vocabulary cards in Anki from a Google Sheet
 
 ### Contents
-1. What is EasyFlashcards?
-2. Installation
-3. Setup
-4. How to contribute
+[What is EasyFlashcard](#EZFlash)
+[Installation](#Installation)
+[Setup](#Setup)
+[How to contribute](#Contributions)
 
-### What is EasyFlashcards?
+### What is EasyFlashcard?
 
 ### Installation
 
-###Setup
+### Setup
 
-###How to contribute
+### How to contribute
