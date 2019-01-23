@@ -2,19 +2,19 @@
 
 ### Contents
 
-1. [What is EasyFlashcard](#EZFlash)
-2. [Installation](#Installation)
-3. [Setup](#Setup)
-4. [How to contribute](#Contributions)
+1. [What is EasyFlashcard](#ezflash)
+2. [Installation](#installation)
+3. [Setup](#setup)
+4. [How to contribute](#contributions)
 
-<a name="EZFlash"/>
+<a name="ezflash"/>
 ### What is EasyFlashcard?
 
-<a name="Installation"/>
+<a name="installation"/>
 ### Installation
 
-<a name="Setup"/>
+<a name="setup"/>
 ### Setup
 
-<a name="Contributions"/>
+<a name="contributions"/>
 ### How to contribute
