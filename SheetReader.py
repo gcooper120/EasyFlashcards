@@ -20,6 +20,9 @@ class SheetReader:
     def __init__(self):
         self.SHEET_CONFIG = dict()
         self.RANGES_CONFIG = dict()
+        self.readConfig()
+        self.getSpreadsheetID()
+        self.setCredentials()
 
     # Reads config file. User must set 'url' parameter under SHEET section
     def readConfig(self):
