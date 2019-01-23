@@ -1,4 +1,1 @@
-Readme for EasyFlashcards
-
-Integration tool for anki and google sheets
-
+######Tool for creating vocabulary cards in Anki from a Google Sheet
