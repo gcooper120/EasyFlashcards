@@ -7,14 +7,14 @@
 3. [Setup](#Setup)
 4. [How to contribute](#Contributions)
 
-<a name="EZFlash">
+<a name="EZFlash"/>
 ### What is EasyFlashcard?
 
-<a name="Installation">
+<a name="Installation"/>
 ### Installation
 
-<a name="Setup">
+<a name="Setup"/>
 ### Setup
 
-<a name="Contributions">
+<a name="Contributions"/>
 ### How to contribute
